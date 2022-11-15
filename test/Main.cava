@@ -1,0 +1,13 @@
+import (
+    "util.test"
+
+)
+public class Main {
+    private:
+        int a = 0
+        int testPrint(){
+            println("hello")
+        }
+    public:
+        
+}

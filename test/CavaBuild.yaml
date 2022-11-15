@@ -1,0 +1,10 @@
+
+cava: Build 1.0
+project: Cava test
+main: Main.cava
+# library(1) or executable(2)
+type: 2
+include path:
+  - ./
+
+output: ./output
